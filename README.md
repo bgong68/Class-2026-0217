@@ -12,3 +12,4 @@
 [🖼️ Squad C](https://github.com/bgong68/Class-2026-0217/blob/main/06.10.2026%20Squad%20C.jpg)  
 [🖼️ Squad D](https://github.com/bgong68/Class-2026-0217/blob/main/06.10.2026%20Squad%20D.jpg)  
 [🖼️ Squad E](https://github.com/bgong68/Class-2026-0217/blob/main/06.10.2026%20Squad%20E.jpg)  
+[🖼️ Squad F](https://github.com/bgong68/Class-2026-0217/blob/main/06.10.2026%20Squad%20F.jpg)  
