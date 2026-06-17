@@ -9,3 +9,4 @@
 <!-- Show a download link and open a preview when clicked  -->  
 [🖼️ Squad A](https://github.com/bgong68/Class-2026-0217/blob/main/06.10.2026%20Squad%20A.jpg)  
 [🖼️ Squad B](https://github.com/bgong68/Class-2026-0217/blob/main/06.10.2026%20Squad%20B.jpg)  
+[🖼️ Squad C](https://github.com/bgong68/Class-2026-0217/blob/main/06.10.2026%20Squad%20C.jpg)  
