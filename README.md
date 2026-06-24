@@ -17,7 +17,7 @@
 <br>
 [🖼️ Class Picture](https://github.com/bgong68/Class-2026-0217/blob/main/Class%20Pic%2006.10.2026.jpg)
 <br>
-[🖼️ Graduation Picture](https://github.com/bgong68/Class-2026-0217/blob/main/Court%20Officers%20Graduation.jpg))
+[🖼️ Graduation Picture](https://github.com/bgong68/Class-2026-0217/blob/main/Court%20Officers%20Graduation.jpg)
 <br>
 <br>
 
